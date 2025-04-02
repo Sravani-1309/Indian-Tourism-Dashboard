@@ -1,4 +1,5 @@
-1. Project Overview
+Project Overview
+
 Title: Interactive Dashboard for Indian Tourism Analysis
 Description: A dashboard visualizing tourism data across various places in India, analyzing entrance fees, Google review ratings, and other relevant metrics.      
 Tools and Technologies: Power BI, Data Cleaning, and Data Visualization
